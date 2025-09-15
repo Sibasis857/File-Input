@@ -1,1 +1,1 @@
-# This is amazon clone project
+# This is Amazon clone project .
